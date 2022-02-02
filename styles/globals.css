@@ -33,3 +33,9 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.coming-soon-image{
+  width: 100%;
+  height: auto;
+  display: block;
+}
